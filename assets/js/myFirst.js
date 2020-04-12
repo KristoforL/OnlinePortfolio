@@ -17,7 +17,7 @@ function startTime() {
      m = checkTime(m);
      s = checkTime(s);
      document.getElementById('txt').innerHTML =
-	 h + ":" + m + ":" + s;
+	 h + " Hours " + m + " Minutes " + "and counting "+ s;
 	 var t = setTimeout(startTime, 500);
 }
 
