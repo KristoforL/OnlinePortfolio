@@ -133,6 +133,7 @@ a:hover, a:focus{
 /* Container */
 
 .container{
+	/* background-image: url('images/primag.avif'); */
 	background-color: rgb(136, 136, 136);
 	margin: 0 15px;
 	text-align: center;
