@@ -5,11 +5,11 @@ header{
 	border-style: solid;
 	border-color: blue;
 	margin-top: 15px;
-	background-image: url("../images/aboutmeimages/block.jpg");
+	background-image: url("../images/AboutMeImages/block.jpg");
 }
 
 footer{
-	background-image: url("../images/aboutmeimages/block.jpg");
+	background-image: url("../images/AboutMeImages/block.jpg");
 }
 
 
@@ -57,7 +57,7 @@ ul > li{
 }
 
 .button{
-    background: url("../images/aboutmeimages/BB.jpg");
+    background: url("../images/AboutMeImages/BB.jpg");
     border: 3px green solid;
     border-radius: 10px;
     -moz-border-radius: 10px;
@@ -79,11 +79,11 @@ ul > li{
 }
 
 .footer{
-	background-image: url("../images/aboutmeimages/block.jpg");
+	background-image: url("../images/AboutMeImages/block.jpg");
 }
 
 .header{
-	background-image: url("../images/aboutmeimages/block.jpg");
+	background-image: url("../images/AboutMeImages/block.jpg");
 }
 
 .underTitle{
