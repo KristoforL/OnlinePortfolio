@@ -33,8 +33,8 @@ $("#Throw").text(yt);
 $("#win").text(wins);
 $("#loss").text(lost);
 $("#computer").text(null)
-$("#rps").attr("src","rps.jpg");
-$("#crps").attr("src","computer.jpg")
+$("#rps").attr("src","assets/images/AboutMeImages/RPS/rps.jpg");
+$("#crps").attr("src","assets/images/AboutMeImages/RPS/computer.jpg")
 
 // generates a random number
 ct = Math.random();
