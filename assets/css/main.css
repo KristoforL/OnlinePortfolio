@@ -337,7 +337,7 @@ a:hover, a:focus{
 }
 
 .background-bottom{
-	background-image: url("Web Pictures/HS.png");
+	background-image: url("assets/images/AboutMeImages/HS.png");
 	background-repeat: no-repeat;
 	background-position: relative;
 	background-size: cover;
@@ -446,7 +446,7 @@ div>.grindEach{
 /*---------------------------Contact Me------------------------------*/
 
 .contactMe-container{
-	background-image: url("Web Pictures/contactMe/contact.jpg");
+	background-image: url("assets/images/AboutMeImages/contact.jpg");
 }
 
 
