@@ -133,6 +133,7 @@ a:hover, a:focus{
 /* Container */
 
 .container{
+	/* background-image: url('images/primag.avif'); */
 	background-color: rgb(136, 136, 136);
 	margin: 0 15px;
 	text-align: center;
@@ -276,15 +277,20 @@ a:hover, a:focus{
 	transition: all .2s ease-in;
 }
 
-.music{
-	padding: 15px;
+.tagline>p{
+	padding: 0% 30%;
 	text-align: center;
+	color: white;
+	
+	
 }
 
 @media only screen and (max-width: 800px){
 
-	.music>audio{
+	.tagline>p{
+		padding: 0% 15%;
 		text-align: center;
+		color: white;
 	}
 }
 
@@ -301,8 +307,9 @@ a:hover, a:focus{
 		text-align-last: center;
 	}
 
-	.music>audio{
+	.tagline>p{
 		text-align: center;
+		display: none;
 	}
 
 }
